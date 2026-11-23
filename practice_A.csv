@@ -1,0 +1,9 @@
+image,emotion,angle,model,correctAns
+stimuli/happy_m1.jpg,happy,0,m1,d
+stimuli/happy_m2.jpg,happy,180,m2,d
+stimuli/angry_m1.jpg,angry,60,m1,f
+stimuli/angry_m2.jpg,angry,120,m2,f
+stimuli/sad_m1.jpg,sad,120,m1,j
+stimuli/sad_m2.jpg,sad,60,m2,j
+stimuli/neutral_m1.jpg,neutral,180,m1,k
+stimuli/neutral_m2.jpg,neutral,0,m2,k
